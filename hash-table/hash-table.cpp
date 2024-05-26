@@ -1,7 +1,5 @@
 ﻿#include <iostream>
 #include <unordered_map>
-#include <cstdlib>
-#include <ctime>
 using namespace std;
 
 class HashTable {
